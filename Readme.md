@@ -19,7 +19,7 @@ The filetest can be replace for any name
 
 edit the package.json file and put in script section
 
-~~~~
+~~~
 
     "test":"--forceExit"
 
@@ -31,3 +31,5 @@ edit the package.json file and put in script section
 ~~~
     npm install supertest @types/supertest @babel/polyfill
 ~~~
+
+### Yo would import @babel/polyfill for any test
