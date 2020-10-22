@@ -32,4 +32,4 @@ edit the package.json file and put in script section
     npm install supertest @types/supertest @babel/polyfill
 ~~~
 
-### Yo would import @babel/polyfill for any test
+### You would import @babel/polyfill for any test
